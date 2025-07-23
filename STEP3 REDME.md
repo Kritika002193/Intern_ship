@@ -41,7 +41,48 @@ FIND THE COMMANDS FROM THE ABOVE LINK AND EXECUTE THEM AS FOLLOWS:
 USE COMMAND TO SELECT THE LOCATION OF THE SOFTWARE: "df-h":
           <img width="898" height="557" alt="image" src="https://github.com/user-attachments/assets/40f98d8a-8b00-4ab3-9c8c-58930d80df3e" />
 COPY THE LINUX.X64-193999_db_home.zip FILE TO THE DESTINED LOCATION AS GIVEN BELOW.
-AS WELL AS 
+AS WELL AS CHANGE THE OWNERSHIP AND MOD FOR DIRECTORY '/u01'AND'/u02'.
+        <img width="788" height="128" alt="image" src="https://github.com/user-attachments/assets/686080bb-9dc5-4eeb-8dda-cc429b1af991" />
+NOW SWITCH THE USER FROM 'root' to 'oracle' AND UNZIP THE .zip FILE THAT IS COPIED IN THE NEW LOCATION.
+        <img width="800" height="193" alt="image" src="https://github.com/user-attachments/assets/a235084b-0c35-4aff-bbbf-7b09182d9a9d" />
+Now run the RUN Installer file:"./runinstaller"
+        <img width="830" height="421" alt="image" src="https://github.com/user-attachments/assets/bb27e9fa-535a-44ce-b9bf-f362f81162f2" />
+SELECT ON:'Setup software only'.Click Next
+        <img width="734" height="493" alt="image" src="https://github.com/user-attachments/assets/e945c21a-15a2-436e-bede-ae157319bcda" />
+Select "Single instance databse installation" option and click Next.
+        <img width="708" height="534" alt="image" src="https://github.com/user-attachments/assets/53e0d3d2-f7b8-4521-b77d-9966eddc6097" />
+Select 'Enterprise Edition" & Click on Next.
+        <img width="700" height="532" alt="image" src="https://github.com/user-attachments/assets/4165b8a7-112b-4feb-a3f9-eed95a89577c" />
+Click on next.
+        <img width="705" height="578" alt="image" src="https://github.com/user-attachments/assets/e15c8801-8610-4d5c-abda-731d5f60c77c" />
+Click on Next again.
+        <img width="655" height="510" alt="image" src="https://github.com/user-attachments/assets/672127b2-03af-4728-91c2-2b729ac9a19c" />
+Click on Next again.
+        <img width="717" height="538" alt="image" src="https://github.com/user-attachments/assets/4000b01f-d88f-49f7-9edc-efa8fca5490d" />
+CHECK "Automatically run configuration scripts' and provide the password for 'root' user. Click next.
+       <img width="706" height="543" alt="image" src="https://github.com/user-attachments/assets/cd16cd22-f97d-4599-a91a-84bc484d7bec" />
+ Check IGNORE ALL & Click on Next.
+        <img width="680" height="496" alt="image" src="https://github.com/user-attachments/assets/3dd98f98-2e94-4624-8335-be65047aafdc" />
+Click on 'Yes'.
+          <img width="695" height="503" alt="image" src="https://github.com/user-attachments/assets/91d1e873-8d63-4a1f-9385-3d7d94f8c02c" />
+click INSTALL.
+          <img width="728" height="597" alt="image" src="https://github.com/user-attachments/assets/b76b12ae-89f8-4ffb-b4b6-991b2acf7ba4" />
+NOW THE FOLLOWING SCREEN WILL APEAR & IT WILL TAKE TIME TO INSTALL THE SOFTWARE.
+          <img width="682" height="524" alt="image" src="https://github.com/user-attachments/assets/f9d405d8-23ba-40bf-a27f-35c655038906" />
+CLICK ON 'Yes'.
+          <img width="691" height="488" alt="image" src="https://github.com/user-attachments/assets/5c62ce49-8312-4e97-883b-e42f93923c3a" />
+NOW SELECT 'CLOSE'.
+           <img width="730" height="580" alt="image" src="https://github.com/user-attachments/assets/3f355cbd-ec73-4d74-9022-f3a48f6de926" />
+RUN THE FOLLOWING HIGHLATED SCRIPTS AS SHOWN BELOW.
+            1.OPEN A NEW TERMINAL
+            2.LOGIN AS 'ROOT' USER
+            3.RUN THE SCRIPTS
+
+<img width="800" height="663" alt="image" src="https://github.com/user-attachments/assets/0e25c966-fa12-44cb-9184-448f78f75f0b" />
+
+
+
+
 
 
 
