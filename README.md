@@ -35,6 +35,7 @@ NOW SET THE HARD DISK SIZE TO 40GB:
 
 NOW BY CLICKING ON 'Create',VM WILL BE CREATED:
             <img width="1263" height="497" alt="image" src="https://github.com/user-attachments/assets/03f746a6-8d0c-42b9-89b7-9b60e4f533f9" />
+        
 
             
 
