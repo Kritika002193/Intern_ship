@@ -32,6 +32,7 @@ AGAIN SELECT THE Default OPTION :
 
 NOW SET THE HARD DISK SIZE TO 40GB:
             <img width="881" height="759" alt="image" src="https://github.com/user-attachments/assets/df1d56e6-fc40-431e-b8ce-c9edafc83a27" />
+
 NOW BY CLICKING ON 'Create',VM WILL BE CREATED:
             <img width="1263" height="497" alt="image" src="https://github.com/user-attachments/assets/03f746a6-8d0c-42b9-89b7-9b60e4f533f9" />
 
